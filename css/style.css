@@ -1,0 +1,42 @@
+body {
+  background-color: #fcfdf7;
+  color: #000;
+  font-family: arial,helvetica ,sans-serif;
+}
+footer {  
+  max-width: 1160px;
+  margin: 40px auto 0 auto;  
+  background-color: #9b0729;
+}
+.footer {	
+  padding: 30px;
+}
+.footer p {
+  color: white;
+  display: inline;
+}
+table td {
+  padding-left: 20px;
+}
+.modeli{
+	float:left;
+	padding-right:55px; 
+	text-align: center;	
+}
+.modeli img{
+	width:200px;
+	height: 120px;
+}
+.center{
+	margin: auto;
+	width:85%;
+}
+.center3
+{	
+	margin:auto;
+	width:68%;
+}
+.center2 {
+	margin: auto;
+	width: 45%;
+}
